@@ -53,7 +53,7 @@ app/src/main/res/drawable/                   -> fonds des boutons personnalisés
 1. Cloner le projet depuis GitHub (ou télécharger ZIP)
 
    ```bash
-   git clone https://github.com/votre-compte/calculatrice-android.git
+   git clone https://github.com/rjabwaad/CalculatriceAndroid.git
    ```
 2. Ouvrir le projet dans **Android Studio**
 3. Build et Run sur un **émulateur ou appareil Android**
