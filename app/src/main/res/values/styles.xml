@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Thème général -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorBackground">#FFE4E9</item>
+        <item name="android:navigationBarColor">#F8C8D8</item>
+        <item name="android:statusBarColor">#C2185B</item>
+    </style>
+
+    <style name="NumberButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@drawable/rounded_pink</item>
+        <item name="backgroundTint">@null</item> <!-- IMPORTANT -->
+    </style>
+
+    <style name="OpButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@drawable/rounded_purple</item>
+        <item name="backgroundTint">@null</item> <!-- IMPORTANT -->
+    </style>
+
+</resources>
